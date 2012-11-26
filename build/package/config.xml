@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+		xmlns:gap	= "http://phonegap.com/ns/1.0"
+		id			= "com.makepositive.mobile.LoginIntegration"
+		version 	= "0.0.1">
+
+	<name>Login Integration</name>
+
+	<description>
+		Sencha Touch, PhoneGap, ChildBrowser and SFDC
+	</description>
+
+	<author href="http://www.makepositive.com" email="manuel.olvera@makepositive.com">
+		MANUEL OLVERA @ Makepositive
+	</author>
+
+	<preference name="phonegap-version" value="2.1.0" />
+	<feature name="http://plugins.phonegap.com/ChildBrowser/2.0.1"></feature>
+	<access origin="*" />
+
+</widget>
